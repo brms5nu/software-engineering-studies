@@ -18,9 +18,9 @@ Concepts, exercises, and real-world implementations using Clojure.
 
 > **Getting started →** [`functional-programming/clojure/`](functional-programming/clojure/) — Clojure CLI (`deps.edn`) project with a REPL-ready starter namespace. Run `clj` from that directory to launch a REPL.
 
-- [ ] Basic syntax and explorations.
-- [ ] REPL-driven development best practices.
-- [ ] Transducers and advanced concurrency.
+- Basic syntax and explorations.
+- REPL-driven development best practices.
+- Transducers and advanced concurrency.
 
 ## 🏗️ Architecture & Systems Design
 Deep dives into how complex systems work.
@@ -36,7 +36,8 @@ Studies on how AI is transforming software engineering.
 
 ## 📝 Technical Notes & Articles
 Writing about various topics related to software engineering.
-- The pragmatic programmer.
-- Clean code.
-- Teamwork for software developers.
+- The Pragmatic Programmer.
+- Clean Code.
+- Teamwork for Software Developers.
+  
 ...
