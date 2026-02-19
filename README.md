@@ -15,6 +15,9 @@ Welcome to my personal knowledge base! This repository is a living document of m
 
 ## λ Functional Programming
 Concepts, exercises, and real-world implementations using Clojure.
+
+> **Getting started →** [`functional-programming/clojure/`](functional-programming/clojure/) — Clojure CLI (`deps.edn`) project with a REPL-ready starter namespace. Run `clj` from that directory to launch a REPL.
+
 - [ ] Basic syntax and explorations.
 - [ ] REPL-driven development best practices.
 - [ ] Transducers and advanced concurrency.
