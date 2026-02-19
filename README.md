@@ -1,6 +1,6 @@
 # Software Engineering Studies 🚀
 
-Welcome to my personal knowledge base! This repository is a living document of my journey as a Software Engineer. Here, I store code samples, architectural reflections, and my explorations into the world of AI.
+This repository is a living document of my journey as a Software Engineer.
 
 ---
 
