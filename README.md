@@ -15,7 +15,7 @@ Welcome to my personal knowledge base! This repository is a living document of m
 
 ## λ Functional Programming
 Concepts, exercises, and real-world implementations using Clojure.
-- [x] Basic syntax and `reduce-kv` explorations.
+- [ ] Basic syntax and explorations.
 - [ ] REPL-driven development best practices.
 - [ ] Transducers and advanced concurrency.
 
