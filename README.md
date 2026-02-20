@@ -36,6 +36,8 @@ Studies on how AI is transforming software engineering.
 
 ## 📝 Technical Notes & Articles
 Writing about various topics related to software engineering.
+
+> **Browse →** [`notes-and-articles/`](notes-and-articles/) — book summaries, concept deep-dives, and lessons learned.
 - The Pragmatic Programmer.
 - Clean Code.
 - Teamwork for Software Developers.
